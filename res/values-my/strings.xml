@@ -532,8 +532,7 @@
     <string name="hac_mode_summary" msgid="6833851160514929341">"အကြားအာရုံကိရိယာသုံးနိုင်ရန် ဖွင့်ပါ"</string>
     <string name="rtt_mode_title" msgid="6954652435543570121">"အချိန်နှင့်တစ်ပြေးညီ စာသား(RTT) ခေါ်ဆိုမှု"</string>
     <string name="rtt_mode_summary" msgid="5146344277246544580">"ဖုန်းပြောနေစဉ် မက်ဆေ့ဂျ်ပို့ခွင့်ပြုပါ"</string>
-    <!-- no translation found for rtt_mode_more_information (6080420780730383030) -->
-    <skip />
+    <string name="rtt_mode_more_information" msgid="6080420780730383030">"RTT သည် နားမကြားသူ၊ နားလေးသူ၊ စကားချို့ယွင်းသူ (သို့) အသံတစ်မျိုးတည်းထက် ပိုမို၍ လိုအပ်သူများကို ကူညီပေးပါသည်။&lt;br&gt; &lt;a href=<xliff:g id="URL">http://support.google.com/mobile?p=telephony_rtt</xliff:g>&gt;ပိုမိုလေ့လာရန်&lt;/a&gt;\n &lt;br&gt;&lt;br&gt; - RTT ခေါ်ဆိုမှုများကို မက်ဆေ့ဂျ်စာသားမှတ်တမ်းအဖြစ် သိမ်းဆည်းပါသည်\n &lt;br&gt; - RTT ကို ဗီဒီယိုခေါ်ဆိုမှုများအတွက် အသုံးမပြုနိုင်ပါ"</string>
   <string-array name="tty_mode_entries">
     <item msgid="512950011423868021">"TTY ပိတ်ထားသည်"</item>
     <item msgid="3971695875449640648">"TTY အပြည့်"</item>
@@ -607,7 +606,7 @@
     <string name="enable_video_calling_dialog_close" msgid="7411471282167927991">"ပိတ်ရန်"</string>
     <string name="sim_label_emergency_calls" msgid="4847699229529306397">"အရေးပေါ် ခေါ်ဆိုမှုများ"</string>
     <string name="sim_description_emergency_calls" msgid="7535215397212301562">"အရေးပေါ် ခေါ်ဆိုမှုသာလျှင်"</string>
-    <string name="sim_description_default" msgid="4778679519938775515">"SIM ကဒ်၊ အပေါက်: <xliff:g id="SLOT_ID">%s</xliff:g>"</string>
+    <string name="sim_description_default" msgid="4778679519938775515">"SIM ကတ်၊ အပေါက်: <xliff:g id="SLOT_ID">%s</xliff:g>"</string>
     <string name="accessibility_settings_activity_title" msgid="8562004288733103868">"ရယူသုံးနိုင်မှု"</string>
     <string name="status_hint_label_incoming_wifi_call" msgid="5932176406432044638">"အောက်ပါမှ Wi-Fi ခေါ်ခြင်း"</string>
     <string name="status_hint_label_wifi_call" msgid="8900805254974653903">"ဝိုင်ဖိုင်ခေါ်ဆိုမှု"</string>
